@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card App</string>
+    <string name="full_name">Imran Abu Libda</string>
+    <string name="title">Android Developer Student</string>
+    <string name="phone_number">+6281805120025</string>
+    <string name="share_text">\imranabulibda.tech</string>
+    <string name="email">abulebdaoy21d@student.unhas.ac.id</string>
+</resources>
